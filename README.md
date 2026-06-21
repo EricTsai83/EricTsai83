@@ -9,7 +9,7 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools,
 ### Products
 
 - **[Systify](https://github.com/EricTsai83/systify)** — Your AI architect for complex codebases. Analyzes any GitHub repo to extract system design patterns and provides grounded chat for deep repository understanding
-- **[ericts/utils](https://github.com/EricTsai83/ericts-ui)** — A collection of well-animated UI components and animation-related hooks.
+- **[ericts/ui](https://github.com/EricTsai83/ericts-ui)** — A collection of well-animated UI components and animation-related hooks.
 - **[OptStuff](https://github.com/EricTsai83/optstuff)** — Real-time image optimization service: format conversion, resizing, and quality control via URL params, secured with HMAC signatures
 - **[DrawStuff](https://github.com/EricTsai83/drawstuff)** — Cloud-synced whiteboard built on Excalidraw, with end-to-end encrypted sharing and workspace management
 
