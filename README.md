@@ -14,7 +14,7 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools,
 
 - **[OptStuff](https://github.com/EricTsai83/optstuff)** — Real-time image optimization service: format conversion, resizing, and quality control via URL params, secured with HMAC signatures.
 
-- **[DrawStuff](https://github.com/EricTsai83/drawstuff)** — Cloud-synced whiteboard built on Excalidraw, with end-to-end encrypted sharing and workspace management.
+- **[drawstuff](https://github.com/EricTsai83/drawstuff)** — Cloud-synced whiteboard built on Excalidraw, with end-to-end encrypted sharing and workspace management.
 
 
 ### Templates & Infra
