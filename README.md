@@ -8,7 +8,7 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools,
 
 ### Products
 
-- **[Systify](https://github.com/EricTsai83/systify)** — Your AI architect for complex codebases. Analyzes any GitHub repo to extract system design patterns and provides grounded chat for deep repository understanding.
+- **[Systify](https://github.com/EricTsai83/systify)** —  An open-source repository analysis tool that helps you understand unfamiliar codebases using repository-specific, grounded context.
 
 - **[ericts/ui](https://ui.ericts.com)** — A collection of well-animated UI components and animation-related hooks.
 
