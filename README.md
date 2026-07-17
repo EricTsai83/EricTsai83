@@ -1,4 +1,4 @@
-Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools, and a lot of UI experiments.
+Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools.
 
 <div align="center">
   <a href="https://ericts.com">My Blog</a> | <a href="https://ericts-techblog.vercel.app">Tech Blog</a> | <a href="https://erictsai-dev.vercel.app">Personal Website</a>
@@ -8,9 +8,11 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools,
 
 ### Products
 
-- **[Systify](https://github.com/EricTsai83/systify)** —  An open-source repository analysis tool that helps you understand unfamiliar codebases using repository-specific, grounded context.
-
 - **[ericts/ui](https://ui.ericts.com)** — A collection of well-animated UI components and animation-related hooks.
+
+- **[reviewstuff](https://github.com/EricTsai83/reviewstuff)** — Minimal Bun-powered CLI scaffold for reviewstuff.
+
+- **[Systify](https://github.com/EricTsai83/systify)** —  An open-source repository analysis tool that helps you understand unfamiliar codebases using repository-specific, grounded context.
 
 - **[OptStuff](https://github.com/EricTsai83/optstuff)** — Real-time image optimization service: format conversion, resizing, and quality control via URL params, secured with HMAC signatures.
 
