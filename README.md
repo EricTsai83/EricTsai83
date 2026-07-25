@@ -10,7 +10,7 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools.
 
 - **[ericts/ui](https://ui.ericts.com)** — A collection of well-animated UI components and animation-related hooks.
 
-- **[reviewstuff](https://github.com/EricTsai83/reviewstuff)** — Minimal Bun-powered CLI scaffold for reviewstuff.
+- **[reviewstuff](https://github.com/EricTsai83/reviewstuff)** — A local code review CLI that turns Git changes into structured, budget-aware reports through pluggable review engines.
 
 - **[Systify](https://github.com/EricTsai83/systify)** —  An open-source repository analysis tool that helps you understand unfamiliar codebases using repository-specific, grounded context.
 
