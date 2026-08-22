@@ -8,7 +8,9 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools.
 
 ### Products
 
-- **[ericts/ui](https://ui.ericts.com)** — A collection of well-animated UI components and animation-related hooks.
+- **[ericts/ui](https://ui.ericts.com)** · [Source code](https://github.com/EricTsai83/ui) — A collection of well-animated UI components and animation-related hooks.
+
+- **[drawstuff](https://github.com/EricTsai83/drawstuff)** — Cloud-synced whiteboard built on Excalidraw, with end-to-end encrypted sharing and workspace management.
 
 - **[reviewstuff](https://github.com/EricTsai83/reviewstuff)** — A local code review CLI that turns Git changes into structured, budget-aware reports through pluggable review engines.
 
@@ -16,16 +18,13 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools.
 
 - **[OptStuff](https://github.com/EricTsai83/optstuff)** — Real-time image optimization service: format conversion, resizing, and quality control via URL params, secured with HMAC signatures.
 
-- **[drawstuff](https://github.com/EricTsai83/drawstuff)** — Cloud-synced whiteboard built on Excalidraw, with end-to-end encrypted sharing and workspace management.
-
-
 ### Templates & Infra
 
 - **[Next.js Self-Host](https://github.com/EricTsai83/next-self-host)** — Auto-deploy a Next.js app to your own VPS with GitHub Actions
 
 ### UI & Animation Experiments
 
-- **[Add to Cart Animation](https://add-item-to-cart-animation.vercel.app)** — Drag-and-drop cart animation built with Framer Motion
+- **[Add to Cart Animation](https://add-item-to-cart-animation.vercel.app)** · [Source code](https://github.com/EricTsai83/add-item-to-cart-animation) — Drag-and-drop cart animation built with Framer Motion
 - **[Hacked Text Effect](https://github.com/EricTsai83/hacked-text-effect)** — Scrambling "hacked" text animation
 - **[ListItem Hover Effect](https://github.com/EricTsai83/list-item-hover-effect)** — Hover effect for list items
 - **[Taipei 101](https://github.com/EricTsai83/taipei-101)** — A little CSS rendition of Taipei 101
