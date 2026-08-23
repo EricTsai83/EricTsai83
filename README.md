@@ -8,7 +8,7 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools.
 
 ### Products
 
-- **[ericts/ui](https://ui.ericts.com)** · [Source code](https://github.com/EricTsai83/ui) — A collection of well-animated UI components and animation-related hooks.
+- **[ericts/ui](https://ui.ericts.com)** · [Source code](https://github.com/EricTsai83/ericts-ui) — A collection of well-animated UI components and animation-related hooks.
 
 - **[drawstuff](https://github.com/EricTsai83/drawstuff)** — Cloud-synced whiteboard built on Excalidraw, with end-to-end encrypted sharing and workspace management.
 
