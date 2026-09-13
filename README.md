@@ -14,7 +14,7 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools.
 
 - **[reviewstuff](https://github.com/EricTsai83/reviewstuff)** — A local code review CLI that turns Git changes into structured, budget-aware reports through pluggable review engines.
 
-- **[RecordStuff](https://github.com/EricTsai83/recordstuff)** — A macOS menu bar app that records your primary display and system audio, saving recordings locally as MP4 files with no account required.
+- **[recordstuff](https://github.com/EricTsai83/recordstuff)** — A macOS menu bar app that records your primary display and system audio, saving recordings locally as MP4 files with no account required.
 
 - **[Systify](https://github.com/EricTsai83/systify)** —  An open-source repository analysis tool that helps you understand unfamiliar codebases using repository-specific, grounded context.
 
