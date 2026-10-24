@@ -16,7 +16,7 @@ Full-stack Web Developer based in Taipei, Taiwan. I build web apps and AI tools.
 
 - **[reviewstuff](https://github.com/EricTsai83/reviewstuff)** — A local code review CLI that turns Git changes into structured, budget-aware reports through pluggable review engines.
 
-- **[prompt-profile](https://github.com/EricTsai83/prompt-profile)** · [Sample report](https://erictsai83.github.io/prompt-profile/demo/full/report.html) — Analyzes your past Claude Code and Codex prompts locally and generates a personal profile.
+- **[prompt-profile](https://erictsai83.github.io/prompt-profile/demo/full/report.html)** · [Source code](https://github.com/EricTsai83/prompt-profile) — Analyzes your past Claude Code and Codex prompts locally and generates a personal profile.
 
 - **[Systify](https://github.com/EricTsai83/systify)** — An open-source repository analysis tool that helps you understand unfamiliar codebases using repository-specific, grounded context.
 
